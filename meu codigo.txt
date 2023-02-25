@@ -32,3 +32,4 @@ git checkout -b "nomeDaNovaBranch" - forma de criar nova branch
 -mergiar(unir) o codigo da branch temporario com a branch principal(depois de testar)
 -git push da branch principal
 
+-- tounh .gitignore - comando que criar uma pasta que nao é add ao controle de versão
