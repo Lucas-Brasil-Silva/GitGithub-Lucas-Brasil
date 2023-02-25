@@ -1,1 +1,7 @@
-meu nome é lucas...
+Comandos do Git
+ -git push - Add o arquivo a nuvem no github
+ -git add. - add todos os aquivos pendentes(alterados)
+ -git commit -m "nome da nova versão" - estrutura para criação de nova COMITE.
+ -git status - verifica se tem algum arquivo que não foi carregado na nuvem
+ -
+
