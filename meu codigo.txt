@@ -1,7 +1,8 @@
 Comandos do Git
  -git push - Add o arquivo a nuvem no github
- -git add. - add todos os aquivos pendentes(alterados)
+ -git add . - add todos os aquivos pendentes(alterados)
  -git commit -m "nome da nova versão" - estrutura para criação de nova COMITE.
  -git status - verifica se tem algum arquivo que não foi carregado na nuvem
- -
-
+ - git reflog - verifica o historico de atualizações 
+ - como navegar entre versões do meu codigo 
+git reset --hard (numero da versão que você quer voltar)
