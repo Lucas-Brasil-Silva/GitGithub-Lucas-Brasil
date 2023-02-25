@@ -19,6 +19,7 @@ git branch "nomeDaNovaBranch" - foma de como criar nova branch
 git checkout "nomeDaBranch" - comando para mudar para outra branch
 git merge "nomeDaBranch" - comando vai servir para add as alterações de uma branch em outra 
 git pull - traz as versoes mais recentes do sistema pra sua maquina 
+git checkout -b "nomeDaNovaBranch" - forma de criar nova branch
 
 -- PASSOS QUE VOÊ DEVE SEGRUIR SE ESTIVER TRABALHANDO EM UMA EQUIPE, COMO MEDIDAS DE SEGURANÇA
 
