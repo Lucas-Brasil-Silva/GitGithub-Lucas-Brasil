@@ -17,3 +17,17 @@ git reset --hard (numero da versão que você quer voltar)
 git branch - indentifica quais branch estão ativas
 git branch "nomeDaNovaBranch" - foma de como criar nova branch
 git checkout "nomeDaBranch" - comando para mudar para outra branch
+git merge "nomeDaBranch" - comando vai servir para add as alterações de uma branch em outra 
+git pull - traz as versoes mais recentes do sistema pra sua maquina 
+
+-- PASSOS QUE VOÊ DEVE SEGRUIR SE ESTIVER TRABALHANDO EM UMA EQUIPE, COMO MEDIDAS DE SEGURANÇA
+
+-git pull da branch principal
+-gerar uma nova branch a partir da branch principal
+-trabalhar e adicinar novas funcionalidades na nova branch que criou
+-finalizar o trabalho na branch temporaria
+-git checkout na branch principal
+-git pull
+-mergiar(unir) o codigo da branch temporario com a branch principal(depois de testar)
+-git push da branch principal
+
